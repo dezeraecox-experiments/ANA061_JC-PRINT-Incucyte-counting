@@ -1,21 +1,12 @@
-# Analysis ###: Title
+# ANA061: JC-PRINT-Incucyte-counting
 
-**Purpose**: 
+**Purpose**: Brief repository to process incucyte fluorescence images for object counting
 
+**Data produced**: Cell count, fluorescence intensity
 
-**Data produced:** 
+**Analysis software**: Python
 
-
-**Analysis methods:** 
-
-
-## Experiment index
-
-**Experiment #:**
-
-**Experiment #:**
-
-**Experiment #:**
+**References/Resources**:
 
 ## Resources & References
 
