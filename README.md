@@ -8,5 +8,4 @@
 
 **References/Resources**:
 
-## Resources & References
-
+- [Cellpose: a generalist algorithm for cellular segmentation](https://www.nature.com/articles/s41592-020-01018-x)
